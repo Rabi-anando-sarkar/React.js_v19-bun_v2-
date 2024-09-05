@@ -1,0 +1,84 @@
+{
+  "topNetflixSeries": [
+    {
+      "id": 1,
+      "Name": "Stranger Things",
+      "URL": "/images/strangerThings.jpg",
+      "Ratings": 8.7,
+      "Description": "A group of kids uncover a secret government experiment and face supernatural forces.",
+      "Tags": ["Sci-Fi", "Horror", "Adventure", "80s Nostalgia"]
+    },
+    {
+      "id": 2,
+      "Name": "The Crown",
+      "URL": "/images/theCrown.jpg",
+      "Ratings": 8.6,
+      "Description": "A dramatization of the reign of Queen Elizabeth II and the events that shaped the 20th century.",
+      "Tags": ["Historical Drama", "Royal Family", "Politics"]
+    },
+    {
+      "id": 3,
+      "Name": "The Witcher",
+      "URL": "/images/theWitcher.jpg",
+      "Ratings": 8.2,
+      "Description": "A monster hunter for hire navigates a world where people often prove more wicked than beasts.",
+      "Tags": ["Fantasy", "Action", "Adventure", "Magic"]
+    },
+    {
+      "id": 4,
+      "Name": "Money Heist",
+      "URL": "/images/moneyHeist.jpg",
+      "Ratings": 8.3,
+      "Description": "A criminal mastermind plans the biggest heist in history at the Royal Mint of Spain.",
+      "Tags": ["Crime", "Thriller", "Heist", "Drama"]
+    },
+    {
+      "id": 5,
+      "Name": "Bridgerton",
+      "URL": "/images/bridgeton.jpg",
+      "Ratings": 7.4,
+      "Description": "A regency-era drama exploring love and societal expectations among London's high society.",
+      "Tags": ["Romance", "Historical", "Drama"]
+    },
+    {
+      "id": 6,
+      "Name": "Ozark",
+      "URL": "/images/ozark.jpg",
+      "Ratings": 8.5,
+      "Description": "A financial planner relocates his family to the Ozarks to launder money for a drug cartel.",
+      "Tags": ["Crime", "Thriller", "Drama"]
+    },
+    {
+      "id": 7,
+      "Name": "The Umbrella Academy",
+      "URL": "/images/theUmbrellaAcademy.jpg",
+      "Ratings": 8.0,
+      "Description": "Adopted siblings with superpowers reunite to solve the mystery of their father's death.",
+      "Tags": ["Superhero", "Fantasy", "Drama", "Sci-Fi"]
+    },
+    {
+      "id": 8,
+      "Name": "Narcos",
+      "URL": "/images/narcos.jpg",
+      "Ratings": 8.8,
+      "Description": "The rise and fall of notorious drug kingpin Pablo Escobar and the Medellín Cartel.",
+      "Tags": ["Crime", "Biography", "Drama", "Thriller"]
+    },
+    {
+      "id": 9,
+      "Name": "Dark",
+      "URL": "/images/dark.jpg",
+      "Ratings": 8.8,
+      "Description": "A small town's secrets unravel through a complex web of time travel and family connections.",
+      "Tags": ["Sci-Fi", "Thriller", "Mystery", "Time Travel"]
+    },
+    {
+      "id": 10,
+      "Name": "Black Mirror",
+      "URL": "/images/blackMirror.jpg",
+      "Ratings": 8.8,
+      "Description": "A dystopian anthology series exploring the dark side of modern society and technology.",
+      "Tags": ["Sci-Fi", "Anthology", "Dystopia", "Drama"]
+    }
+  ]
+}
